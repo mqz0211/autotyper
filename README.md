@@ -37,3 +37,8 @@ A simple Python GUI tool to automatically type user-provided text after a short 
 ## Disclaimer
 
 Use responsibly. This tool simulates keyboard input and may interfere with other applications.
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-@mqz0211-181717?logo=github\&style=for-the-badge)](https://github.com/mqz0211)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mqz0211&show_icons=true&theme=transparent)
