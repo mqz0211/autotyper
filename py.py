@@ -23,3 +23,4 @@ start_button = tk.Button(root, text="Start Typing (after 3s)", command=start_typ
 start_button.pack(pady=10)
 
 root.mainloop()
+#end
